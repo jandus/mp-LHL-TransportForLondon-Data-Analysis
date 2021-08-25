@@ -1,10 +1,9 @@
-# mini-project-I
+# Transport for London API and data analysis - LHL mini-project-I
+This project has the goal to use different APIs to get data and then analyze it.
 
-Welcome to your first **Mini Project**. This repo contains instructions what to do during the project. Enjoy!! 
+## Transport for London
 
-## Transport of London
-
-During this mini-project, we will work with the API from [Transport of London](https://api.tfl.gov.uk/). The main goal of this project is to practice different HTTP requests and extracting values from complex lists and nested dictionaries.
+The main goal of this project is to practice different HTTP requests and extracting values from complex lists and nested dictionaries.
 
 > #### Instruction
 > Register for the API service to obtain an **Application ID** and **Key**. We should append these values as parameters `app_id` and `app_key` into each URL when sending the request.
@@ -20,14 +19,10 @@ During this mini-project, we will work with the API from [Transport of London](h
 > #### Instruction
 > Register for the [API service](https://www.themoviedb.org/account/signup) to obtain the **API Key**. We will have to append this value as parameter `api_key` into each URL when sending the request.
 
-Once we are registered we can check the documentation of this API [here](https://developers.themoviedb.org/3/account).
-
-In this part of the project, we will look for information about our favorite movie and actors. We will learn something about each other tomorrow when we present results.
+This is a stretch activity to work with Movies API
 
 
-## Presentation
-
-There is dedicated time tomorrow to show the results to mentors and our peers. We encourage you to spend some time at the end of today to start think about that and to:
-
-- polish your code
-- think about how do you want to show the results (share screen with notebook, slides...)
+## Files
+1. mini-project-I.ipynb - Notebook with extraction and transformation of data from Transport for London API.
+2. mini-Project-I-part-II.ipynb - Notebook with extraction, transformation and analysis of Movie data from www.themoviedb.org.
+3. Mini-Project - W1 API.pptx - File used for the presentation of the project.
